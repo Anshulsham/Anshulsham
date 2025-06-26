@@ -1,7 +1,7 @@
 [![MasterHead](https://i.postimg.cc/wxPc2Fxp/This-pin-is-all-about-coding.gif)]
 <h1 align="center">Hi 👋, I'm Anshul Shambharkar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align=”right” alt=”Coding” width=”400”src=https://i.postimg.cc/MGYV22CC/antn-O-desk.gif >
+<img align="right" alt="Coding" width="400" src="https://postimg.cc/QBHH1Pxm" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulsham&label=Profile%20views&color=0e75b6&style=flat" alt="anshulsham" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anshul_sham" target="blank"><img src="https://img.shields.io/twitter/follow/anshul_sham?logo=twitter&style=for-the-badge" alt="anshul_sham" /></a> </p>
