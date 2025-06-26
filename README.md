@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" width="100%" />
+<img src="https://i.postimg.cc/wxPc2Fxp/This-pin-is-all-about-coding.gif" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Anshul Shambharkar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
